@@ -9,6 +9,8 @@ import Foundation
 
 struct Session {
     
+    let id = UUID()
+    
     // Question that the user asks, must be set to start an advice session
     let question: String
     

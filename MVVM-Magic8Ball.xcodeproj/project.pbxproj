@@ -15,6 +15,9 @@
 		7FD68F7926F82B2000187093 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FD68F7826F82B2000187093 /* ContentView.swift */; };
 		7FD68F7B26F82B2800187093 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7FD68F7A26F82B2800187093 /* Assets.xcassets */; };
 		7FD68F7E26F82B2800187093 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7FD68F7D26F82B2800187093 /* Preview Assets.xcassets */; };
+		7FD68F8526F82FB300187093 /* Magic8Ball.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E59619526F4EFF2007C535B /* Magic8Ball.swift */; };
+		7FD68F8626F82FB300187093 /* Session.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E59619726F4F314007C535B /* Session.swift */; };
+		7FD68F8726F82FB300187093 /* AdviceViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E59619B26F4F5FC007C535B /* AdviceViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -252,6 +255,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7FD68F8526F82FB300187093 /* Magic8Ball.swift in Sources */,
+				7FD68F8626F82FB300187093 /* Session.swift in Sources */,
+				7FD68F8726F82FB300187093 /* AdviceViewModel.swift in Sources */,
 				7FD68F7926F82B2000187093 /* ContentView.swift in Sources */,
 				7FD68F7726F82B2000187093 /* iOSApp.swift in Sources */,
 			);
